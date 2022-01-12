@@ -1,6 +1,6 @@
 # android_env_setup_1337
 
-add this lines to .zshenv (if not exist create it)
+add these lines to .zshenv (if not exist create it)
 ```zsh
 # custom paths
 export DEV_TOOLS=/Users/$(whoami)/goinfre/devtools
